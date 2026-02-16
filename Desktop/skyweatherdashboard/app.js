@@ -1,4 +1,4 @@
-const API_KEY = "51ed2539fd3ad1e454aaa0dd312fd595";
+const API_KEY = "51ed2539fd3ad1e454aaa0dd312fd595git";
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 function getWeather(city) {
